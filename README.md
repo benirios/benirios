@@ -26,4 +26,6 @@
   
 </div>
 
+<div>
 ![Snake animation] (https: //github.com/benirios/benirios/blob/output/github-contribution-grid-snake.svg)
+</div>
