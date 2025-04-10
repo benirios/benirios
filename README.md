@@ -23,4 +23,6 @@
 ‹a href-"https://instagram.com/benirrios™ tagget-"_blank">img src-"https://img-shields.io/badge/-Instagram-X23E4405F?style=for-the-badge81ogo-instagram&logoColor=white*
 target-"
 _blank"></a>
+
+  ![Snake animation)(https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
