@@ -92,9 +92,3 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&hide_border=true&theme=transparent" />
 </p>
 
----
-
-## 🌫️ Terminal-Style Animation
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00F7D1&center=true&vCenter=true&width=500&lines=Building+things.;Automating+everything.;Exploring+software.;Optimizing+systems.;" />
-</p>
