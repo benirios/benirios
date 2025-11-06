@@ -1,5 +1,5 @@
-<h1 align="center">benirios</h1>
-<p align="center">Software Development • AI • Automation</p>
+<h1 align="Left">benirios</h1>
+<p align="Left">Software Development • AI • Automation</p>
 
 ---
 
@@ -22,14 +22,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=benirios&theme=github" />
 </p>
-
----
-
-## 🐍 Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/benirios/benirios/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 ---
 
 ## 🛠️ Stack
