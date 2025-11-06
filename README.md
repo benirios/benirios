@@ -1,5 +1,7 @@
 <h1 align="center">benirios</h1>
-<p align="center">Interactive GitHub Profile • Automated • Animated • Dynamic</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00F7D1&center=true&vCenter=true&width=500&lines=Building+things.;Automating+everything.;Exploring+software.;Optimizing+systems.;" />
+</p>
 
 ---
 
