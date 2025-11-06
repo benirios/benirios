@@ -57,7 +57,7 @@
 
 ## 🔧 Tech Stack (Icons)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,python,cs,js,nodejs,unity,docker,github,linux,git" />
+  <img src="https://skillicons.dev/icons?i=swift,python,xcode,github,c,cpp,git" />
 </p>
 
 ---
