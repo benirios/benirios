@@ -1,6 +1,6 @@
 <h1 align="center">benirios</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00F7D1&center=true&vCenter=true&width=500&lines=Building+things.;Automating+everything.;Exploring+software.;Optimizing+systems.;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00F7D1&center=true&vCenter=true&width=500&lines=aaaaaaaaaaaaaaahhhhhhh..;O+Martim+esta+pobre.;Joao+burrao.;Gustavo+gay.;" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 
 ## 🔧 Tech Stack (Icons)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,python,xcode,github,c,cpp,git" />
+  <img src="https://skillicons.dev/icons?i=swift,python,github,c,cpp,git" />
 </p>
 
 ---
