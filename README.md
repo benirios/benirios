@@ -19,7 +19,7 @@
 <img align-"center" height-"20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img align-"center" height-"20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align-"center" height-"20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align-"center" height-"20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
+<img align-"center" height-"20" width="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F374088%2Fsolidity&psig=AOvVaw1Rxc80CumbZs_DItyerjoG&ust=1762505883842000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiZ-pqU3ZADFQAAAAAdAAAAABAE" />
 
 </div>
 
