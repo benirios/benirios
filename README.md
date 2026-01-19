@@ -1,16 +1,4 @@
-<h1 align="center">benirios</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00F7D1&center=true&vCenter=true&width=500&lines=aaaaaaaaaaaaaaahhhhhhh..;O+Martim+esta+pobre.;Joao+burrao.;Gustavo+gay.;" />
-</p>
 
----
-
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=benirios&color=blue&style=flat-square" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
